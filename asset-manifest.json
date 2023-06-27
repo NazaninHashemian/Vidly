@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/vidly/static/css/main.038af982.css",
+    "main.js": "/vidly/static/js/main.bcbabae6.js",
+    "static/js/787.fba8e351.chunk.js": "/vidly/static/js/787.fba8e351.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/vidly/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/vidly/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/vidly/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/vidly/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/vidly/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo.svg": "/vidly/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vidly/index.html",
+    "main.038af982.css.map": "/vidly/static/css/main.038af982.css.map",
+    "main.bcbabae6.js.map": "/vidly/static/js/main.bcbabae6.js.map",
+    "787.fba8e351.chunk.js.map": "/vidly/static/js/787.fba8e351.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.038af982.css",
+    "static/js/main.bcbabae6.js"
+  ]
+}
